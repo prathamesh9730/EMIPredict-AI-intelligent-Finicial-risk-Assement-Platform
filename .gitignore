@@ -1,0 +1,15 @@
+# Data and experiment logs
+*.csv
+mlruns/
+mlflow.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+# Anaconda and scratch files
+anaconda_projects/
+db_test.py
+
