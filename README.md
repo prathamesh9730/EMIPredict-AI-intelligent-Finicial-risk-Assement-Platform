@@ -1,5 +1,5 @@
 # EMIPredict AI
-
+**Live app:** https://y5rp4cam4l67kt8257hwqm.streamlit.app/
 EMI eligibility classification (Eligible, High_Risk, Not_Eligible) aur maximum safe monthly EMI regression, with MLflow tracking and a Streamlit app.
 
 ## Run locally
